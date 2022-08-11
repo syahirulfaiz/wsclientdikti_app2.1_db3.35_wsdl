@@ -1,11 +1,13 @@
 # wsclientdikti_app2.1_db3.35_wsdl
-A wsdl version of the obsolete webservice client importer for the academic data to the Ministry of HE of Rep Indonesia
+<h1>A wsdl version of the obsolete webservice client importer for the academic data to the Ministry of HE of Rep of Indonesia</h1> <br/><hr/>
 
-Importer could transfer following data:
--student's data
--curriculum for each cohort
--modules (inside each course(s)) 
--student's classes
--student's academic history
--Semester Grade Point Average
--Cumulative Grade point average
+<h3>Importer could transfer following data:</h3><br/>
+<ul>
+  <li>student's data</li>
+  <li>curriculum for each cohort</li>
+  <li>modules (inside each course(s)) </li>
+  <li>student's classes</li>
+  <li>student's academic history</li>
+  <li>Semester Grade Point Average</li>
+  <li>Cumulative Grade point average</li>
+</ul>
